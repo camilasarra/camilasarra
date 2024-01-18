@@ -3,8 +3,6 @@
 <!--
 **camilasarra/camilasarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 🚀 Skills: JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, MongoDB, Git
 🌱 Currently learning: Three.js, Typescript, Tailwind
 🤝 Known for: Approachability, empathy, and team spirit
