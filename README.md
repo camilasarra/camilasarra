@@ -1,10 +1,9 @@
-### Hi there 👋 I'm Camila! a Full-Stack Developer & IT project manager with a creative twist! 
+### Hi there 👋 I'm Camila! a Full-Stack Developer with a creative twist! 
   
 
-- 🚀 Skills: JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, MongoDB, Git, Agile, Scrum, Jira  
-  
+- 🚀 Skills: JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, , GIT, MongoDB
 
-- 🌱 Currently learning: Three.js and Project Management   
+- 🌱 Currently learning: Three.js and typescript
   
 
 - 🤝 Known for: Approachability, empathy, and team spirit
