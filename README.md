@@ -1,15 +1,13 @@
 ### Hi there 👋 I'm Camila! a Full-Stack Developer with a creative twist! 
   
 
-- 🚀 Skills: JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, , GIT, MongoDB
+- 🚀 Skills: JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, , GIT, MongoDB, figma, ux/ui design
 
 - 🌱 Currently learning: Three.js and typescript
   
-
 - 🤝 Known for: Approachability, empathy, and team spirit
   
   
-
 - 💬 Let's connect: https://www.linkedin.com/in/camila-sarra/  
   
 
